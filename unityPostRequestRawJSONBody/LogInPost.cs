@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//this code was completed after researching and analizing code found on the topic online. to use this you need to have simpleJSON in the same folder as this.
+using System.Collections;
 using UnityEngine;
 using SimpleJSON;
 using UnityEngine.Networking;
